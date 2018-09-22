@@ -860,6 +860,8 @@ version (CppRuntime_Microsoft)
 
         $(UL
         $(LI $(D "cppRuntimeLibrary"))
+        $(LI $(D "floatAbi"))
+        $(LI $(D "objectFormat"))
         )
 
 $(H2 $(GNAME getVirtualFunctions))
